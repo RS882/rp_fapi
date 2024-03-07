@@ -3,107 +3,107 @@
 		{
 			"name": "Eltz Castle",
 			"description": "A medieval castle nestled in the hills above the Moselle River between Koblenz and Trier.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Eltz_2012-08-CN-02.jpg/1280px-Burg_Eltz_2012-08-CN-02.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Le_ch%C3%A2teau_d%27Eltz_%28Burg_Eltz%29_en_allemagne_%28cropped%29.jpg/639px-Le_ch%C3%A2teau_d%27Eltz_%28Burg_Eltz%29_en_allemagne_%28cropped%29.jpg"
 		},
 		{
 			"name": "Cochem Castle",
 			"description": "A hilltop castle with fairy-tale looks, overlooking the Mosel River.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Reichsburg_Cochem_2011.jpg/1280px-Reichsburg_Cochem_2011.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cochem_and_Reichsburg.jpg/375px-Cochem_and_Reichsburg.jpg"
 		},
 		{
 			"name": "Loreley Rock",
 			"description": "A famous steep slate rock on the right bank of the River Rhine.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Loreley_2008.jpg/1280px-Loreley_2008.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Loreley_rhine_valley_wp_d_schmidt_08_07.jpg/330px-Loreley_rhine_valley_wp_d_schmidt_08_07.jpg"
 		},
 		{
 			"name": "Mainz Cathedral",
 			"description": "A thousand-year-old cathedral renowned for its Romanesque architecture.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz-03-Dom_von_Nordost-2019-gje.jpg/1280px-Mainz-03-Dom_von_Nordost-2019-gje.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainzer_Dom_nw.jpg/330px-Mainzer_Dom_nw.jpg"
 		},
 		{
 			"name": "Porta Nigra",
 			"description": "A large Roman city gate in Trier, one of the best-preserved Roman city gates north of the Alps.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Trier_Porta_Nigra_BW_1.JPG/1280px-Trier_Porta_Nigra_BW_1.JPG"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Porta_Nigra_morgens_%28100MP%29.jpg/450px-Porta_Nigra_morgens_%28100MP%29.jpg"
 		},
 		{
 			"name": "Marksburg Castle",
 			"description": "The only hill castle on the Rhine that has never been destroyed, offering medieval charm.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Marksburg_01.jpg/1280px-Marksburg_01.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Marksburg-Braubach.jpg/450px-Marksburg-Braubach.jpg"
 		},
 		{
 			"name": "Speyer Cathedral",
 			"description": "A UNESCO World Heritage Site, this is one of the largest and most important Romanesque buildings in Germany.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2012_Speyer_Dom_und_Becken_auf_Domplatz_anagoria.JPG/1280px-2012_Speyer_Dom_und_Becken_auf_Domplatz_anagoria.JPG"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Speyer_dom_11.jpg/330px-Speyer_dom_11.jpg"
 		},
 		{
 			"name": "German Wine Route",
 			"description": "The oldest of Germany's tourist wine routes, famous for its almond blossoms, wine festivals, and picturesque villages.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Neuleiningen_20090405.jpg/1280px-Neuleiningen_20090405.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/German_Wine_Gate.JPG/375px-German_Wine_Gate.JPG"
 		},
 		{
 			"name": "Palatinate Forest Nature Park",
 			"description": "The largest contiguous forested area in Germany, offering a diverse range of flora and fauna.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pfälzerwald_bei_Dahn.jpg/1280px-Pfälzerwald_bei_Dahn.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Slevogthofundneukastel.JPG/426px-Slevogthofundneukastel.JPG"
 		},
 		{
 			"name": "Deutsches Eck",
 			"description": "A headland in Koblenz where the Moselle river joins the Rhine, marked by an equestrian statue of Emperor William I.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Deutsches_Eck_001.JPG/1280px-Deutsches_Eck_001.JPG"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Koblenz_im_Buga-Jahr_2011_-_Deutsches_Eck_01.jpg/330px-Koblenz_im_Buga-Jahr_2011_-_Deutsches_Eck_01.jpg"
 		},
 		{
 			"name": "Nanstein Castle",
 			"description": "A medieval castle near Landstuhl, known for its picturesque views of the surrounding landscapes.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Burg_Nanstein_Vom_Hohenecken_Aus.jpg/1280px-Burg_Nanstein_Vom_Hohenecken_Aus.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Nanstein_%22von_oben%22_-_panoramio.jpg/375px-Burg_Nanstein_%22von_oben%22_-_panoramio.jpg"
 		},
 		{
 			"name": "Rhine Gorge",
 			"description": "A UNESCO World Heritage Site, known for its stunning landscapes, vineyards, and historic castles.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2012_Rheingau_Lorch_Sankt_Martin_0091.JPG/1280px-2012_Rheingau_Lorch_Sankt_Martin_0091.JPG"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/St.Goarshausen_Loreley_Burg_Katz_2016-03-27-17-13-57.jpg/390px-St.Goarshausen_Loreley_Burg_Katz_2016-03-27-17-13-57.jpg"
 		},
 		{
 			"name": "Wartburg Castle",
 			"description": "A castle originally built in the Middle Ages, famous for its association with the Reformation.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wartburg_Ansicht_02.jpg/1280px-Wartburg_Ansicht_02.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg/375px-Thuringia_Eisenach_asv2020-07_img23_Wartburg_Castle.jpg"
 		},
 		{
 			"name": "Zoo Neuwied",
 			"description": "A zoological garden in Neuwied, home to a diverse range of animal species.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Neuwied_Zoo_Artenschutz-Zentrum-2015.jpg/1280px-Neuwied_Zoo_Artenschutz-Zentrum-2015.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zoo-neuwied-eingang.jpg/330px-Zoo-neuwied-eingang.jpg"
 		},
 		{
 			"name": "Koblenz Cable Car",
 			"description": "A cable car in Koblenz offering panoramic views of the Rhine and Moselle rivers.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Koblenz_Herbstfest_2010_Festung_Konstantin_Aufstieg_Seilbahn_3.JPG/1280px-Koblenz_Herbstfest_2010_Festung_Konstantin_Aufstieg_Seilbahn_3.JPG"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Buga_2011_Koblenz_-_Rheinseilbahn_07-2010.jpg/330px-Buga_2011_Koblenz_-_Rheinseilbahn_07-2010.jpg"
 		},
 		{
 			"name": "Wild- und Wanderpark Südliche Weinstraße",
 			"description": "A wildlife and hiking park in the southern part of the Wine Route, offering encounters with local wildlife.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Naturschutzgebiet_Elmsteiner_Tal.jpg/1280px-Naturschutzgebiet_Elmsteiner_Tal.jpg"
+			"photoUrl": "https://wildpark-silz.de/wp-content/uploads/2022/01/WP-spielplatz-2.jpg"
 		},
 		{
 			"name": "Schloss Vollrads",
 			"description": "A historic wine estate and castle in the Rheingau wine-growing region.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schloss_Vollrads._Blick_vom_Turm.jpg/1280px-Schloss_Vollrads._Blick_vom_Turm.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2010-05-16_Schloss_Vollrads.jpg/330px-2010-05-16_Schloss_Vollrads.jpg"
 		},
 		{
 			"name": "Kaiserslautern Zoo",
 			"description": "A zoo in Kaiserslautern with a focus on education and conservation.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zoo_Kaiserslautern_%2817%29.jpg/1280px-Zoo_Kaiserslautern_%2817%29.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/4._Affenhaus.jpg/330px-4._Affenhaus.jpg"
 		},
 		{
 			"name": "Gutenberg Museum",
 			"description": "Located in Mainz, it is one of the oldest museums of printing in the world.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mainz_Gutenberg-Museum.jpg/1280px-Mainz_Gutenberg-Museum.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/330px-Gutenberg-Museum_Mainz_585-vh.jpg"
 		},
 		{
 			"name": "Alte Liebe",
 			"description": "A historic lighthouse in Cuxhaven, symbolizing the eternal love of sailors and their families.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Alte_Liebe_Cuxhaven.JPG/1280px-Alte_Liebe_Cuxhaven.JPG"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rodenkirchen_Alte_Liebe.jpg/330px-Rodenkirchen_Alte_Liebe.jpg"
 		},
 		{
 			"name": "Hambach Castle",
 			"description": "A castle near Neustadt an der Weinstraße, known for its association with the Hambach Festival.",
-			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hambacher_Schloss_1.jpg/1280px-Hambacher_Schloss_1.jpg"
+			"photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/150418-Hambach-02.jpg/375px-150418-Hambach-02.jpg"
 		}
 	]
 }
